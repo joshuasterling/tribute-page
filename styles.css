@@ -1,0 +1,21 @@
+#main {
+  background-color: #f5f5f5;
+  padding: 30px 0;
+}
+
+#img-div img {
+  display: block;
+}
+
+h1 {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 4rem;
+}
+
+li {
+  font-weight: bold;
+}
+
+#image {
+  max-width: 100%;
+}
